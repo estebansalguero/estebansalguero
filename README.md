@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estebansalguero&theme=radical) <br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebansalguero&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebansalguero&layout=compact&theme=radical&hide=Java,PHP,CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
